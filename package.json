@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-cigotracker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "n8n node for CigoTracker API integration - manage deliveries, routes, and field service operations",
   "keywords": [
     "n8n",
