@@ -1,0 +1,40 @@
+# Source files
+src/
+*.ts
+!*.d.ts
+
+# Config files
+tsconfig.json
+tslint.json
+.gitignore
+
+# Documentation source
+docs/
+CLAUDE.md
+N8N_CUSTOM_NODE_DEVELOPMENT_SPEC.md
+
+# IDE
+.vscode/
+.idea/
+
+# Tests
+test/
+*.test.*
+*.spec.*
+
+# Build tools
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep only compiled files
+!dist/
+!index.js
+!package.json
+!README.md
+!LICENSE
