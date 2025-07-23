@@ -140,4 +140,4 @@ To use this node, you need to configure CigoTracker API credentials:
 
 ## License
 
-[MIT](https://github.com/vulture916/n8n-nodes-cigotracker/blob/master/LICENSE)
+[Apache 2.0](https://github.com/streamlinedstartup/n8n-nodes-cigotracker/blob/master/LICENSE)
